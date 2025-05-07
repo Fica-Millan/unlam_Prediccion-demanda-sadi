@@ -24,7 +24,9 @@ El desarrollo siguió de manera implicita el enfoque CRISP-DM y se implementó u
 
 - KNIME Analytics Platform, esencial para la implementación de las etapas de preparación de datos, modelado y evaluación.
 - Word (documentación del proyecto)
-- Dataset descargado desde la web de CAMMESA, disponible [aquí](https://cammesaweb.cammesa.com/2023/03/14/maximos-historicos-deenergia-y-potencia-estacionales/).
+- Dataset descargado desde la web de CAMMESA, disponible en [https://cammesaweb.cammesa.com/](https://cammesaweb.cammesa.com/) en la sección de Máximos Históricos de Energía
+y Potencia Estacionales del SADI.
+
 
 ## 📂 Estructura
 
